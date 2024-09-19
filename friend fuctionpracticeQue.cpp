@@ -19,6 +19,7 @@ Number findLarger(Number a, Number b) {
     return (a.num > b.num) ? a : b;
 }
 
+
 int main() {
     int first, second;
 
