@@ -30,6 +30,7 @@ int main()
 }*/
 
 //parameter as array
+
 void funarr(int a[],int s)
 {
     for(int i=0;i<s;i++)
