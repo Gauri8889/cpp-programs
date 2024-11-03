@@ -16,6 +16,7 @@ class sbi:public rbi
         cout<<"sbi";
     }
 };
+
 int main()
 {
     rbi *p;
